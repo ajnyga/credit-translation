@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "fi",
+        "languageName": "Finnish",
+        "translators": [
+            {
+                "firstName": "",
+                "lastName": "",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Antti-Jussi",
+                "lastName": "Nygård",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "Role names translated by CSC – IT Center for Science. Descriptions translated by AJN. All translators are native Finnish speakers."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Tutkimuksen muotoilu",
+            "description": "Ideat; yleisten tutkimustavoitteiden ja -päämäärien muotoilu tai kehittäminen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Datan käsittely",
+            "description": "Toimet, joiden tarkoituksena on annotoida (tuottaa kuvailutietoja), siivota dataa ja ylläpitää tutkimusaineistoja (mukaan lukien ohjelmistokoodi, jos se on tarpeen datan tulkitsemiseksi) alkuperäistä käyttöä ja myöhempää uudelleenkäyttöä varten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Tiedon analysointi",
+            "description": "Tilastollisten, matemaattisten, laskennallisten tai muiden muodollisten menetelmien soveltaminen tutkimustietojen analysointiin tai synteesiin."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Rahoituksen hankinta",
+            "description": "Tähän julkaisuun liittyvän hankerahoituksen hankinta."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Tutkimus",
+            "description": "Tutkimusprosessin toteuttaminen, erityisesti kokeiden tekeminen tai datan kerääminen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Menetelmät",
+            "description": "Menetelmien kehittäminen tai suunnittelu; mallien luominen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Projektin hallinta",
+            "description": "Hallinnointi- ja koordinointivastuu tutkimustoiminnan suunnittelusta ja toteutuksesta."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Aineiston hankinta",
+            "description": "Tutkimusmateriaalien, reagenssien, materiaalien, potilaiden, laboratorionäytteiden, eläinten, instrumenttien, laskentaresurssien tai muiden analyysivälineiden toimittaminen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Sovelluskehitys",
+            "description": "Ohjelmointi, sovelluskehitys; tietokoneohjelmien suunnittelu; tietokonekoodin ja sitä tukevien algoritmien toteutus; olemassa olevien koodikomponenttien testaus."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Ohjaus",
+            "description": "Valvonta- ja johtamisvastuu tutkimustoiminnan suunnittelusta ja toteutuksesta, mukaan lukien tutkimusryhmän ulkopuolinen mentorointi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validointi",
+            "description": "Tulosten/kokeiden ja muiden tutkimustulosten yleisen toistettavuuden todentaminen, joko osana toimintaa tai erikseen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualisointi",
+            "description": "Julkaistun työn valmistelu, luominen ja/tai esittäminen, erityisesti visualisointi/tiedon esittäminen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Kirjoitus - alkuperäinen luonnos",
+            "description": "Julkaisun valmistelu, luominen ja/tai esittäminen, erityisesti alkuperäisen luonnoksen kirjoittaminen (mukaan lukien laaja käännöstyö)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Kirjoitus - tarkistus ja muokkaus",
+            "description": "Alkuperäiseen tutkimusryhmään kuuluvien henkilöiden suorittama julkaisun valmistelu, luominen ja/tai esittäminen, erityisesti kriittinen arviointi, kommentointi tai tarkistaminen - mukaan lukien julkaisua edeltävät tai julkaisun jälkeiset vaiheet."
+        }
+    }
+}
